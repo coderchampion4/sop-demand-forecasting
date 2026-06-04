@@ -5,7 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-F7931E?logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 
 > **End-to-end S&OP demand forecasting framework** that automates reorder point calculations, optimises safety stock at a 95% service level, and eliminates 100% of manual planning effort across a 60-SKU, 5-category retail operation.
 
@@ -206,8 +206,8 @@ Service level: **95%** → Z = 1.645
 
 ## Author
 
-**Ashmit Goel** — B.Tech ECE, Jaypee Institute of Information Technology  
-[LinkedIn](https://www.linkedin.com/in/ashmit-goel-8ab850299) · [Email](mailto:ashmitg.044@gmail.com)
+**Ashmit Goel** 
+[LinkedIn](https://www.linkedin.com/in/ashmit-goel-8ab850299) ·
 
 ---
 
