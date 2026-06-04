@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Outputs (generated at runtime)
+outputs/*.csv
+outputs/*.xlsx
+outputs/*.json
+outputs/*.png
+!outputs/.gitkeep
+
+# Data
+data/*.csv
+data/*.xlsx
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Env
+.env
+*.env
